@@ -3,7 +3,7 @@ var greet = "Hello, "
 var specialGuest = "Neil deGrasse Tyson";
 
 var greetSpecialGuest = greet + specialGuest + "!";
-
+var letsTalk = "Let's talk about"
 var topic = "space";
 
-var conversation = `${"Lets talk about" + space}`;
+var conversation = letsTalk + topic;
